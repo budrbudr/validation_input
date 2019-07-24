@@ -14,7 +14,7 @@ const rules = [
     }
 ];
 
-let fuck = function() {
+let foo = function() {
     let inputText = document.getElementById('pass').value;
     let counter = 0;
     rules.forEach(function (item) {
