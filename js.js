@@ -22,7 +22,7 @@ let fuck = function() {
 
         if (item.regex.test(inputText)) {
             console.log(true);
-            document.getElementById(counter).style.color = 'green'; ///те самые костыли
+            document.getElementById(counter).style.color = 'green'; 
             //покрасить в зеленый
 
         } else {
